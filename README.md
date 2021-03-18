@@ -1,11 +1,5 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
-
-## Building
-...
-
-## Troubleshooting
-...
+Работа с файлами CSV, XML, JSON
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
